@@ -6,6 +6,13 @@ Les sources et assets du jeu se trouvent dans `docs/`. Pour développer : `pytho
 
 Jeu de fronde 2D organique : Lovecraft contre l’humanité. HTML/CSS/Canvas 2D, sans dépendance client. Sauvegardes locales `rlyeh-war-v2`.
 
+## Temps de réalisation estimés
+
+- Vibe coding : **4 h**, en incluant conception, essais, génération et intégration des assets, corrections et publication.
+- Développement classique équivalent : **80 h**, avec une fourchette indicative de **60 à 100 h**, pour reproduire le prototype actuel : physique, cinq missions, six pouvoirs, sprites et interface PC/mobile.
+
+Ces deux valeurs sont des estimations. Les dates de versions sont connues, mais l’historique récupérable ne permet pas de chronométrer l’ensemble des sessions ni le temps actif. La durée de vibe coding est marquée « Estimation » dans le calendrier Inktober.
+
 ## Combat et physique
 
 Cinq missions différentes, cinq offrandes par mission, six pouvoirs et montée en puissance de Cthulhu. La victoire demande d’éliminer les défenseurs humains. Les anciennes lanternes-tours répétées ont été remplacées par des installations en bois, pierre et acier, des traverses, des rampes, des barils et quatre profils ennemis.
